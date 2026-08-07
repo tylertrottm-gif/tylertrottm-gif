@@ -112,13 +112,13 @@ Developing a Streamlit application that allows collectors to organize Pokémon c
 
 ## Professional Background
 
-### Senior Engineering Technician — Flight Test Instrumentation
+### Senior Engineering Technician, Flight Test Instrumentation
 
 Support aircraft flight-test activities involving instrumentation wiring, telemetry systems, calibration, data acquisition, technical troubleshooting, inspections, and certification-related testing.
 
-### Avionics Technician and Supervisor
+### Avionics Supervisor, Quality Assurance Representative
 
-Previous experience supporting military aircraft programs through avionics maintenance, quality assurance, technical inspections, aircraft troubleshooting, and team supervision.
+Previous experience supporting military aircraft programs through avionics maintenance, quality assurance, inspections, aircraft troubleshooting, and team supervision.
 
 ---
 
