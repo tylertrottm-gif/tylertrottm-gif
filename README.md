@@ -86,7 +86,7 @@ Analyzed New York City Airbnb listing characteristics to identify factors associ
 
 **Skills:** Python · Pandas · Data Exploration · Predictive Analytics · Gradio · Business Decision Support
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](YOUR_AIRBNB_REPOSITORY_URL)
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://huggingface.co/spaces/TMTrott/ibm-employee-attrition-analytics)
 
 ---
 
@@ -131,5 +131,5 @@ I am continuing to strengthen my skills in business analytics, financial analysi
 ## Contact
 
 [![Purdue Email](https://img.shields.io/badge/Purdue_Email-CEB888?style=for-the-badge\&logo=gmail\&logoColor=black)](mailto:ttrott@purdue.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tyler-trott-m/)
 [![GitHub](https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/tylertrottm-gif)
